@@ -15,7 +15,7 @@
 ### Objetivo  
 #
 
- Meu objetivo como desenvolvedor é sempre estar aprendendo, poder participar de projetos novos e inovadores. Adoro criar coisas novas e resolver problemas com tecnologia, sejam elas coisas simples do meu dia a dia ou necessidades mais complexas.
+ Meu objetivo como desenvolvedor é sempre estar aprendendo, poder participar de projetos sejam eles quais forem. Adoro criar coisas novas e resolver problemas com tecnologia, sejam elas coisas simples do meu dia a dia ou necessidades mais complexas.
 
 
 <br>
