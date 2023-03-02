@@ -1,4 +1,4 @@
-### Olá! Me chamo Djonata Nossol Hortz, seja bem-vindo 👋
+### Olá! Seja bem-vindo 👋
 #
 
 ![Djonata Hortz GitHub stats](https://github-readme-stats.vercel.app/api?username=rootdnh&show_icons=true&theme=radical)
