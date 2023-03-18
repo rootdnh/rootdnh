@@ -4,6 +4,8 @@
 ![Djonata Hortz GitHub stats](https://github-readme-stats.vercel.app/api?username=rootdnh&show_icons=true&theme=radical)
 
 <br>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rootdnh)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/djonata-nossol-hortz-1b7168151/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/djow_nh/)
