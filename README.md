@@ -1,7 +1,7 @@
 ### Olá! Seja bem-vindo 👋
 #
 
-![Djonata Hortz GitHub stats](https://github-readme-stats.vercel.app/api?username=rootdnh&show_icons=true&theme=radical)
+![Djonata Hortz GitHub stats](https://github-readme-stats.vercel.app/api?username=rootdnh&show_icons=true&theme=radical&title_color=8A2BE2&text_color=8A2BE2&bg_color=0d1117)
 
 <br>
 
