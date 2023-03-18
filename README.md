@@ -2,7 +2,7 @@
 #
 
 ![Djonata Hortz GitHub stats](https://github-readme-stats.vercel.app/api?username=rootdnh&show_icons=true&theme=radical&title_color=8A2BE2&text_color=8A2BE2&bg_color=0d1117)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rootdnh&&layout=compact&hide_border=true&title_color=8A2BE2&text_color=8A2BE2&bg_color=0d1117)]
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rootdnh&layout=compact&hide_border=true&title_color=8A2BE2&text_color=8A2BE2&bg_color=0d1117" />
 <br>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/djonata-nossol-hortz-1b7168151/)
