@@ -2,12 +2,8 @@
 #
 
 ![Djonata Hortz GitHub stats](https://github-readme-stats.vercel.app/api?username=rootdnh&show_icons=true&theme=radical&title_color=8A2BE2&text_color=8A2BE2&bg_color=0d1117)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rootdnh&layout=compact)]()
 <br>
-
-[![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rootdnh&bg_color=0d1117&color=8A2BE2&line=8A2BE2&point=00BFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/djonata-nossol-hortz-1b7168151/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/djow_nh/)
@@ -49,4 +45,8 @@
 ### No Github 
 # 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rootdnh&layout=compact)]()
+[![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rootdnh&bg_color=0d1117&color=8A2BE2&line=8A2BE2&point=00BFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
+
