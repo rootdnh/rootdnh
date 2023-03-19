@@ -44,10 +44,6 @@
 <br>
 
 
-# 
-
-[![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rootdnh&bg_color=0d1117&color=8A2BE2&line=8A2BE2&point=00BFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 
 
