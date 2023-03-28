@@ -2,10 +2,6 @@
 #
 
 
-![Djonata Hortz GitHub stats](https://github-readme-stats.vercel.app/api?username=rootdnh&show_icons=true&theme=radical&title_color=8A2BE2&text_color=8A2BE2&bg_color=0d1117&hide_border=true)
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rootdnh&layout=compact&hide_border=true&title_color=8A2BE2&text_color=8A2BE2&bg_color=0d1117" />
-<br>
-
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/djonata-nossol-hortz-1b7168151/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/djow_nh/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rootdnh@gmail.com)
